@@ -1,6 +1,6 @@
 Python Coursework Portfolio
 
-A collection of Python programs written across two semesters of coursework, organized by concept rather than assignment number. This repo tracks my progression from basic syntax through functions, control flow, data structures, file I/O, and exception handling.
+A collection of Python programs written across two semesters of coursework at George Mason University during my freshman year, organized by concept rather than assignment number. This repo tracks my progression from basic syntax through functions, control flow, data structures, file I/O, and exception handling.
 
 Why I organized it this way
 
